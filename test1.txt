@@ -5,4 +5,4 @@ im am learning web development
 
 i have started my webdevelopment
 and going on..
-logo alignment is centered
+logo alignment is centered done
